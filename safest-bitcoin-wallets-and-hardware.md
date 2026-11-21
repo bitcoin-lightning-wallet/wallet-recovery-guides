@@ -75,3 +75,10 @@ For a long-term on-chain balance, usually. For a spending balance in Lightning, 
 ### What is the single best safety step?
 
 Test a restore before you need one. It catches every mistake that matters.
+
+## Related guides
+
+- [Custodial vs non-custodial wallet: which one is actually safer](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/custodial-vs-non-custodial-wallet.md)
+- [What you actually hold in a Lightning wallet, and how keys are kept](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-you-hold-in-a-lightning-wallet.md)
+- [Best Bitcoin Lightning wallets compared, including this one](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/best-lightning-wallet-compared.md)
+

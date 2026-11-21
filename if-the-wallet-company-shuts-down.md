@@ -70,3 +70,10 @@ to sign a transaction.
 ### Should I move my funds if development stops?
 
 Close channels and keep the balance on-chain, where a restore needs only the phrase.
+
+## Related guides
+
+- [What you actually hold in a Lightning wallet, and how keys are kept](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-you-hold-in-a-lightning-wallet.md)
+- [Custodial vs non-custodial wallet: which one is actually safer](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/custodial-vs-non-custodial-wallet.md)
+- [What happens when a channel closes or a wallet goes quiet](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/lightning-channel-closing-and-inactivity.md)
+

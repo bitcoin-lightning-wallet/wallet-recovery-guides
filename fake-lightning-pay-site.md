@@ -70,3 +70,10 @@ It can capture the phrase at creation, which is worse: it gets the wallet you wi
 
 There is no account and no email list tied to a wallet. An email asking you to "verify your wallet" is
 not from here.
+
+## Related guides
+
+- [Is Lightning Pay legit and safe? What the record actually shows](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/is-lightning-pay-legit.md)
+- [Downloading Lightning Pay on Windows and macOS without getting a fake](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/download-lightning-pay-windows-macos.md)
+- [What Lightning Pay Wallet is, and what it is not](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-lightning-pay-wallet-is.md)
+
