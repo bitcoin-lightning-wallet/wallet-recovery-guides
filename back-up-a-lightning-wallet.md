@@ -71,3 +71,10 @@ Offline and duplicated: paper in two places beats a file in one. Never in a note
 
 Then the funds are gone. There is no support process that can recover them, because there is no server
 that holds them.
+
+## Related guides
+
+- [Recovering a bitcoin wallet with a seed phrase](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/recover-a-bitcoin-wallet-with-a-seed-phrase.md)
+- [When a Lightning recovery fails: no seed, an SCB, or an unsupported restore](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/when-lightning-recovery-fails.md)
+- [What you actually hold in a Lightning wallet, and how keys are kept](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-you-hold-in-a-lightning-wallet.md)
+

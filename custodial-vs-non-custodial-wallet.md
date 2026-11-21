@@ -74,3 +74,10 @@ provider.
 
 No. Keys are on your machine, which is why the recovery questions on this site all come back to the
 phrase.
+
+## Related guides
+
+- [What you actually hold in a Lightning wallet, and how keys are kept](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-you-hold-in-a-lightning-wallet.md)
+- [Cash App, Coinbase and Binance: are they Lightning wallets?](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/cash-app-coinbase-binance-lightning.md)
+- [What happens to your sats if the wallet company disappears](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/if-the-wallet-company-shuts-down.md)
+

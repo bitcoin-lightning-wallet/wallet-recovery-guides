@@ -75,3 +75,10 @@ No legitimate one asks for a phrase. Recovery is local or it is theft.
 
 Usually not. A forced close has a waiting period before funds are spendable, which can look like a
 failure for days.
+
+## Related guides
+
+- [Backing up a Lightning wallet: the seed phrase and the SCB file](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/back-up-a-lightning-wallet.md)
+- [Recovering a bitcoin wallet with a seed phrase](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/recover-a-bitcoin-wallet-with-a-seed-phrase.md)
+- [Recovering an old bitcoin wallet, or importing one you already have](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/recover-an-old-bitcoin-wallet.md)
+

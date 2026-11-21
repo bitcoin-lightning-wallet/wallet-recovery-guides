@@ -75,3 +75,8 @@ No. There is no sign-up, no email and no server-side balance.
 
 Partly: Lightning payments do not touch the chain, but opening a channel does, which is where on-chain
 fees appear.
+
+## Related guides
+
+- [Is Lightning Pay legit and safe? What the record actually shows](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/is-lightning-pay-legit.md)
+

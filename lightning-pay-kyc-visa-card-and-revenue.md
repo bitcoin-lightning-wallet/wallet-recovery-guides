@@ -65,3 +65,9 @@ Not in the current desktop build.
 ### Is there a monthly fee?
 
 No, and no per-payment cut either. Network fees are paid to the network.
+
+## Related guides
+
+- [Is Lightning Pay legit and safe? What the record actually shows](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/is-lightning-pay-legit.md)
+- [What Lightning Pay Wallet is, and what it is not](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-lightning-pay-wallet-is.md)
+

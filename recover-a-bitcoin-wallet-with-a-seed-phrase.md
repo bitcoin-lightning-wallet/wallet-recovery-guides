@@ -74,3 +74,10 @@ that brings back on-chain funds only usually points at a missing channel backup.
 
 Twelve or twenty-four in the common standard. A phrase of another length belongs to a different scheme,
 and the restore needs the matching wallet.
+
+## Related guides
+
+- [Backing up a Lightning wallet: the seed phrase and the SCB file](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/back-up-a-lightning-wallet.md)
+- [Recovering an old bitcoin wallet, or importing one you already have](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/recover-an-old-bitcoin-wallet.md)
+- [When a Lightning recovery fails: no seed, an SCB, or an unsupported restore](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/when-lightning-recovery-fails.md)
+

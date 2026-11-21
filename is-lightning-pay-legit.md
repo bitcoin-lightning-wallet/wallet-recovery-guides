@@ -73,3 +73,9 @@ It is public and reviewable. No independent audit of this build is claimed here.
 ### Why do reviews mention a card?
 
 Because several products share the name. The card belongs to a different product line.
+
+## Related guides
+
+- [Spotting a fake Lightning Pay website or installer](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/fake-lightning-pay-site.md)
+- [What Lightning Pay Wallet is, and what it is not](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-lightning-pay-wallet-is.md)
+

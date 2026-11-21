@@ -72,3 +72,9 @@ operator holding one.
 
 Because they are different rails. On-chain is final and slower; Lightning is instant and lives in
 channels. The split is a choice, not a limitation.
+
+## Related guides
+
+- [Custodial vs non-custodial wallet: which one is actually safer](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/custodial-vs-non-custodial-wallet.md)
+- [What happens to your sats if the wallet company disappears](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/if-the-wallet-company-shuts-down.md)
+

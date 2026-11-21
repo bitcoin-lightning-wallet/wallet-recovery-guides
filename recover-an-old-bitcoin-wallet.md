@@ -65,3 +65,9 @@ yet. Let the scan complete before concluding anything.
 ### I forgot the password. Can support reset it?
 
 No. There is no account and no server. The phrase is the way back; without it the password stands.
+
+## Related guides
+
+- [Recovering a bitcoin wallet with a seed phrase](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/recover-a-bitcoin-wallet-with-a-seed-phrase.md)
+- [Backing up a Lightning wallet: the seed phrase and the SCB file](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/back-up-a-lightning-wallet.md)
+

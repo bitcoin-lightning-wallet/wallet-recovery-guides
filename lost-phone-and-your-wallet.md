@@ -71,3 +71,9 @@ phrase as compromised.
 
 It deletes the local wallet. The funds live on the network and return with the phrase and, for
 channels, the backup.
+
+## Related guides
+
+- [Backing up a Lightning wallet: the seed phrase and the SCB file](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/back-up-a-lightning-wallet.md)
+- [Recovering a bitcoin wallet with a seed phrase](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/recover-a-bitcoin-wallet-with-a-seed-phrase.md)
+
